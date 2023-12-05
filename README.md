@@ -7,9 +7,7 @@ This repository contains the code, models and Final Report for PixelPoets implem
 
 The repository is strcutured as follows:
 
-- Code: Contains all the code sectioned off into task specific scripts.
-
-- Models: Contains the zipped folder of the various fine-tuned models that were tested and evaluating during the semester.
+- Scripts: Contains all the code sectioned off into task specific scripts.
 
 - Final Report.pdf: Contains the documentation, evaluations and results in a ordered fashion.
 
